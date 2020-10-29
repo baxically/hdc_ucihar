@@ -600,7 +600,7 @@ int main ()
 	free(validY_h);
 	
 	
-    char str[100]="ISOLET_retrain";
+    char str[100]="UCIHAR_retrain.xls";
 	create_marks_csv(str,MvsA,Miter,Diter);	
 }
 
